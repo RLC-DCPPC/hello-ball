@@ -1,0 +1,10 @@
+To Deliver:
+
+ - [ ] Assemble your links, repo, other assorted deliverable items
+ - [ ] Go to [this page](https://github.com/nih-cfde/deliverables/blob/master/README.md)
+ - [ ] Click the pencil icon
+ - [ ] Add an entry in the README file for your deliverable
+ - [ ] Scroll all the way to the bottom
+ - [ ] Click "Propose File Change"
+ - [ ] Click "Create pull Request"
+ - [ ] On the right hand side, click the gear next to "assignees" and pick RLC-DCPPC
