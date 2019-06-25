@@ -44,4 +44,6 @@ Content in the first column | Content in the second column
 
 :+1:
 
+Now, if you come back *later*, what can you recall???
+
 
